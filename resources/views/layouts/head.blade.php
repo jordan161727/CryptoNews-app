@@ -140,7 +140,7 @@
                     <a href="#" class=" block hover:text-blue font-serif text-lg font-bold py-5">Exchanges</a>
                     <a href="#" class=" block hover:text-blue font-serif text-lg font-bold py-5">Market Cap</a>
                
-                    <a href="/forum" class=" block hover:text-blue font-serif text-lg font-bold py-5">Forum</a>
+                  <!--  <a href="/forum" class=" block hover:text-blue font-serif text-lg font-bold py-5">Forum</a>-->
                        </div>
         
     </nav>
