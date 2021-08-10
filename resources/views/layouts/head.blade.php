@@ -112,7 +112,8 @@
                     <a href="NFT" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.nft')}}</a>
                     <a href="#" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.exchange')}}</a>
                     <a href="#" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.marketcap')}}</a>
-                  <!--  <a href="/forum" class="hover:text-blue font-serif text-sm dark:text-white font-bold">{{__('messages.forum')}}</a>-->
+               
+                    <!--  <a href="/forum" class="hover:text-blue font-serif text-sm dark:text-white font-bold">{{__('messages.forum')}}</a>-->
                  
                  
                             </div>
