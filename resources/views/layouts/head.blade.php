@@ -109,8 +109,8 @@
             <div class="hidden md:flex flex items-center space-x-7">
                     <a href="/" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.news')}}</a>
                     <a href="Cryptocurrencies"class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.cryptocurrencies')}}</a>
-                    <a href="Exchange" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.exchange')}}</a>
                     <a href="NFT" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.nft')}}</a>
+                    <a href="#" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.exchange')}}</a>
                     <a href="#" class="hover:text-blue font-serif text-sm text-black dark:text-white font-bold">{{__('messages.marketcap')}}</a>
                   <!--  <a href="/forum" class="hover:text-blue font-serif text-sm dark:text-white font-bold">{{__('messages.forum')}}</a>-->
                  
